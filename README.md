@@ -7,7 +7,7 @@ This project showcases an interactive Tableau Sales Dashboard designed to analyz
 ## 🔗 Live Dashboard
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SalesPeformanceDashboard_17524990294620/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🔍 Key Features
+## ✨ Key Features
 - **Dynamic KPI Cards**: Total Sales, Profit, and Quantity with year-over-year (YoY) percentage change and trend indicators.
 - **Interactive Line Charts**: Compare current year vs previous year trends for Sales, Profit, and Quantity over time.
 - **Subcategory Performance**: Bar charts with YoY comparison and profit/loss alerts.
