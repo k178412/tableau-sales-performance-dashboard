@@ -1,2 +1,33 @@
-# Tableau Sales Performance Dashboard
-Interactive Tableau Sales Dashboard with dynamic filters, YoY KPI trends, and drill-down analysis by subcategory and weekly performance.
+# 📊 Tableau Sales Performance Dashboard
+
+This project showcases an interactive Tableau Sales Dashboard designed to analyze yearly and weekly sales performance across subcategories and over time. It features dynamic filters, YoY KPI trends, and drill-down interactivity to explore detailed insights by category and time period.
+
+## 📈 Dashboard
+
+
+
+## 🔧 Key Features
+
+- **Dynamic KPI Cards**: Total Sales, Profit, and Quantity with year-over-year (YoY) percentage change and trend indicators.
+- **Interactive Line Charts**: Compare 2023 vs 2022 trends for Sales, Profit, and Quantity over time.
+- **Subcategory Performance**: Bar charts with YoY comparison and profit/loss alerts.
+- **Weekly Sales Analysis**: Highlight average sales vs actuals with bar + line combo.
+- **Filter Pane**: Toggleable filter section with parameters (Year, Region, Segment) to customize the view.
+- **Dashboard Actions**: Click-based interactivity to filter charts based on subcategory selections.
+- **Dynamic Titles**: Titles adjust based on selected filter values using parameters.
+
+## 🛠️ Tools Used
+
+- Tableau Public
+- Microsoft Excel (for dataset exploration)
+
+## 📌 Purpose
+
+Built as part of my Tableau learning journey to demonstrate professional dashboard design, interactivity, and UX considerations. Complements my Power BI and SQL project portfolio.
+
+## 🔒 License
+This project is licensed under MIT License.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! If you find this project useful, please consider giving it a star!⭐️
+
