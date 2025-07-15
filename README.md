@@ -9,11 +9,11 @@ This project showcases an interactive Tableau Sales Dashboard designed to analyz
 
 ## 🔧 Key Features
 - **Dynamic KPI Cards**: Total Sales, Profit, and Quantity with year-over-year (YoY) percentage change and trend indicators.
-- **Interactive Line Charts**: Compare 2023 vs 2022 trends for Sales, Profit, and Quantity over time.
+- **Interactive Line Charts**: Compare current year vs previous year trends for Sales, Profit, and Quantity over time.
 - **Subcategory Performance**: Bar charts with YoY comparison and profit/loss alerts.
-- **Weekly Sales Analysis**: Highlight average sales vs actuals with bar + line combo.
+- **Weekly Sales Analysis**: Highlight average sales and profits vs actuals with line charts.
 - **Filter Pane**: Toggleable filter section with parameters (Year, Region, Segment) to customize the view.
-- **Dashboard Actions**: Click-based interactivity to filter charts based on subcategory selections.
+- **Dashboard Actions**: Click-based interactivity to filter charts based on subcategory selections etc.
 - **Dynamic Titles**: Titles adjust based on selected filter values using parameters.
 
 ## 🛠️ Tools Used
