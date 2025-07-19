@@ -16,7 +16,7 @@ This project showcases an interactive Tableau Sales Dashboard designed to analyz
 - **Dashboard Actions**: Click-based interactivity to filter charts based on subcategory selections etc.
 - **Dynamic Titles**: Titles adjust based on selected filter values using parameters.
 
-## 🛠️ Tools & Features Used
+## 🧰 Tools & Techniques
 - Tableau Public (Dashboard creation and publishing)
 - Microsoft Excel (Dataset exploration)
 - Parameter Controls
